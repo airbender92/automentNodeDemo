@@ -1,0 +1,10 @@
+{
+  "FROM_EMAIL": "Nobot Test <XXXX@qq.com>",
+  "TO_EMAIL": "Game Studios Team <XXXX@outlook.com>",
+  "HOST": "localhost",
+  "PORT": "587",
+  "AUTH": {
+    "USERNAME": "mediocre",
+    "PASSWORD": ""
+  }
+}
